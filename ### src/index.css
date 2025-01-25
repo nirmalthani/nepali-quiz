@@ -1,0 +1,10 @@
+### src/index.css
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom styles here */
+```
+
+---
